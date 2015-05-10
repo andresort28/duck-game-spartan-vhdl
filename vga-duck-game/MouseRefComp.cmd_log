@@ -1,2 +1,0 @@
-vhdtdtfi -lib work resolution_mouse_informer.vhd -lib work ps2interface.vhd -lib work mouse_controller.vhd -lib work MouseRefComp.vhd -prj VGA_Duck -o MouseRefComp.spl -module MouseRefComp -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
-spl2sym -intstyle ise -family spartan3e MouseRefComp.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/MouseRefComp.sym 
