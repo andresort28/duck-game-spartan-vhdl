@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Clk_div_25MHz.vhd -prj VGA_Duck -o Clk_div_25MHz.spl -module Clk_div_25MHz -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Clk_div_25MHz.spl {C:/Documents and Settings/1144050945/Mis documentos/Duck hunt/VGA_Duck/Clk_div_25MHz.sym} 

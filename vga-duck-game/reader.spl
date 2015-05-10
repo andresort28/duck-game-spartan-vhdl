@@ -1,0 +1,17 @@
+[Inputs]
+clk
+reset
+rot_a
+rot_b
+shot
+=row[9:0]=
+=col[9:0]=
+=datain[2:0]=
+=xpos[9:0]=
+=ypos[9:0]=
+[Outputs]
+R
+G
+B
+=addr[15:0]=
+[BiDir]

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work resolution_mouse_informer.vhd -prj VGA_Duck -o resolution_mouse_informer.spl -module resolution_mouse_informer -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e resolution_mouse_informer.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/resolution_mouse_informer.sym 

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work mouse_controller.vhd -prj VGA_Duck -o mouse_controller.spl -module mouse_controller -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e mouse_controller.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/mouse_controller.sym 

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Documents and Settings/1144050945/Mis documentos/Duck hunt/VGA_Duck/xst/projnav.tmp"
+set -xsthdpdir "C:/Documents and Settings/1144050945/Mis documentos/Duck hunt/VGA_Duck/xst"
+elaborate
+-ifn Clk_div_25MHz.prj
+-ifmt mixed

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Desktop\VGA_Duck_FINAL\VGA_Duck_Nuevo\VGA_Proyect.ncd
+OUTFILE=D:\Desktop\VGA_Duck_FINAL\VGA_Duck_Nuevo\VGA_Proyect.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=D:\Desktop\VGA_Duck_FINAL\VGA_Duck_Nuevo
+LICENSE=WebPack
+USER_INFO=210690782_0_0_715

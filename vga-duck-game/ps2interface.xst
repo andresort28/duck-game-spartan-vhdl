@@ -1,0 +1,5 @@
+set -tmpdir "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/xst/projnav.tmp"
+set -xsthdpdir "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/xst"
+elaborate
+-ifn ps2interface.prj
+-ifmt mixed

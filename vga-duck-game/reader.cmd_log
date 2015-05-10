@@ -1,0 +1,145 @@
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl {C:/Documents and Settings/1144050945/Mis documentos/Duck hunt/VGA_Duck/reader.sym} 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -prj VGA_Duck -o W:/VGA_Duck_Nuevo/reader.vhi -lib work W:/VGA_Duck_Nuevo//reader.vhd -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl W:/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 
+vhdtdtfi -lib work reader.vhd -prj VGA_Duck -o reader.spl -module reader -template C:/Xilinx/14.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e reader.spl D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/reader.sym 

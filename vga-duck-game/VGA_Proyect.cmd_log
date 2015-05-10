@@ -1,0 +1,389 @@
+xst -intstyle ise -ifn "C:/Documents and Settings/1144050945/Mis documentos/Duck hunt/VGA_Duck/VGA_Proyect.xst" -ofn "C:/Documents and Settings/1144050945/Mis documentos/Duck hunt/VGA_Duck/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 "VGA_Proyect.ngc" VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "W:/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "W:/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
+xst -intstyle ise -ifn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.xst" -ofn "D:/Desktop/VGA_Duck_FINAL/VGA_Duck_Nuevo/VGA_Proyect.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc spartan3e.ucf -p xc3s500e-fg320-4 VGA_Proyect.ngc VGA_Proyect.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o VGA_Proyect_map.ncd VGA_Proyect.ngd VGA_Proyect.pcf 
+par -w -intstyle ise -ol high -t 1 VGA_Proyect_map.ncd VGA_Proyect.ncd VGA_Proyect.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml VGA_Proyect.twx VGA_Proyect.ncd -o VGA_Proyect.twr VGA_Proyect.pcf -ucf spartan3e.ucf 
+bitgen -intstyle ise -f VGA_Proyect.ut VGA_Proyect.ncd 
