@@ -1,0 +1,17 @@
+# Output products list for <mymemory>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_readme.txt
+mymemory.asy
+mymemory.gise
+mymemory.mif
+mymemory.ngc
+mymemory.sym
+mymemory.v
+mymemory.veo
+mymemory.vhd
+mymemory.vho
+mymemory.xco
+mymemory.xise
+mymemory_flist.txt
+mymemory_xmdf.tcl
